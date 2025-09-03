@@ -1,6 +1,6 @@
 # 📰 Blog Preview Card — Frontend Mentor Challenge
 
-This is my solution to the [Blog Preview Card challenge]() on Frontend Mentor. It's a clean, responsive card layout that showcases a blog post preview with hover effects and semantic structure.
+This is my solution to the [Blog Preview Card challenge](https://www.frontendmentor.io/solutions/blog-preview-card-solution-12RLDcFbHC) on Frontend Mentor. It's a clean, responsive card layout that showcases a blog post preview with hover effects and semantic structure.
 
 ## 🚀 Live Site  
 Check out the hosted version here: [Live Preview](https://kakarot26.github.io/Blog-Preview-FM-Solution/)
